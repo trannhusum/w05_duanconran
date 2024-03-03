@@ -1,0 +1,7 @@
+D:\visual studio\Csharp\w05_duanconran\bin\Debug\w05_duanconran.exe.config
+D:\visual studio\Csharp\w05_duanconran\bin\Debug\w05_duanconran.exe
+D:\visual studio\Csharp\w05_duanconran\bin\Debug\w05_duanconran.pdb
+D:\visual studio\Csharp\w05_duanconran\obj\Debug\w05_duanconran.csproj.AssemblyReference.cache
+D:\visual studio\Csharp\w05_duanconran\obj\Debug\w05_duanconran.csproj.CoreCompileInputs.cache
+D:\visual studio\Csharp\w05_duanconran\obj\Debug\w05_duanconran.exe
+D:\visual studio\Csharp\w05_duanconran\obj\Debug\w05_duanconran.pdb
